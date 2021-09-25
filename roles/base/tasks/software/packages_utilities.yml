@@ -7,13 +7,13 @@
       - colordiff
       - curl
       # - environment-modules
-      - fish
+      # - fish
       - htop
       - iotop
       - "{{ lm_sensors_package }}"
-      - lsof
-      - ncdu
-      - neofetch
+      # - lsof
+      # - ncdu
+      # - neofetch
       - net-tools
       - "{{ nfs_client_package }}"
       - nmap
